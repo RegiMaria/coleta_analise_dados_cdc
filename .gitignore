@@ -1,0 +1,4 @@
+# Ignorar arquivos de configuração do sistema
+.ipynb_checkpoints/
+
+requirements.txt
